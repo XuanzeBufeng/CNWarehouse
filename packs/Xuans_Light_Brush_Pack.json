@@ -1,0 +1,52 @@
+{
+  "format": "rained-assets-pack",
+  "version": 1,
+  "id": "Xuans_Light_Brush_Pack",
+  "name": "Xuan's Light Brush Pack",
+  "author": "XuanZeBuFeng",
+  "description": "My light brush collection",
+  "names": {
+    "zh-CN": "选择部分的光源笔刷包\u001F选择部分\u001F我的光源笔刷合集"
+  },
+  "source": "local",
+  "readonly": false,
+  "createdAt": "2026-10-23T14:34:42.0630429Z",
+  "assets": {
+    "tiles": [],
+    "props": [],
+    "materials": [],
+    "effects": [],
+    "lights": [
+      "Chains",
+      "CraneHouse",
+      "CrossBoxTall",
+      "CrossClimbSegment",
+      "CrossSupport",
+      "CrossSupportA",
+      "FeatherFern",
+      "Fence",
+      "FungusTree",
+      "HangingRoot",
+      "IdolA",
+      "IdolB",
+      "IdolC",
+      "IdolD",
+      "LargeBeam",
+      "Lavenders",
+      "LeavesA",
+      "LeavesB",
+      "LeavesC",
+      "LeavesD",
+      "LeavesE",
+      "LeavesF",
+      "LeavesG",
+      "LeftFacingKelp",
+      "ONHCplate",
+      "Palm",
+      "PlateStatue",
+      "PrismMetal",
+      "RootPlant",
+      "Wires"
+    ]
+  }
+}
